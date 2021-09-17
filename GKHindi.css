@@ -1,0 +1,10 @@
+@font-face {font-family: Bookerly;}
+h1 {font-size: 1.75rem; color: #593246; font-family: Bookerly; font-weight: bold; padding: 1.5rem 0.6rem 0rem 0.40rem; }
+h2 {font-size: 1.60rem; color: #9c2562; font-family: Bookerly; font-weight: bold; padding: 0rem 0.6rem 0rem 0.40rem; }
+h3 {font-size: 1.45rem; color: #99467f; font-family: Bookerly; font-weight: bold; padding: 0rem 0.6rem 0rem 0.40rem; }
+h4 {font-size: 1.30rem; color: #2c5b7d; font-family: Bookerly; font-weight: bold; padding: 0rem 0.6rem 0rem 0.40rem; }
+h5 {font-size: 1.15rem; color: #4b7899; font-family: Bookerly; font-weight: bold; padding: 0rem 0.6rem 0rem 0.40rem; }
+p {font-family: Bookerly; text-align: justify; hyphens: auto; letter-spacing: -0.01rem; font-family: Bookerly; font-size: 1.15rem; line-height: 1.60rem; color: #000000; padding: 0rem 0.7rem 0.25rem 0.50rem; } 
+a {text-decoration: none; }</style>   <style> #toc {background-color: #e9edf0; text-decoration: none; font-size: 0.9rem; margin: 0.20rem 0.20rem 0.10rem 0.20rem; padding: 0.15rem 0.15rem 0.15rem 0.15rem; } 
+table { font-family: Bookerly; font-size: 1rem; color: #394045; border-collapse: collapse; width: 100%; display: block; overflow: auto; } td, th { border: 1px solid #dddddd; text-align: left; padding: 4px; } tr:nth-child(even) { background-color: #e9edf0; }
+.bckgrnd {background-color: #e9edf0; font-size: 1rem; padding: 1rem 1rem 1rem 1rem; margin: 0.40rem 0.40rem 0.40rem 0.40rem; }
